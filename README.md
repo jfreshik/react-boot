@@ -1,4 +1,5 @@
 # React Project basic templates
+Contact tutorial
 
 
 ## Packages
@@ -8,6 +9,9 @@ $ npm install webpack webpack-dev-server webpack-cli
 $ npm install --save react react-dom
 $ npm install --save-dev babel-core babel-loader@7 babel-preset-es2015 babel-preset-react -D
 $ npm install --save-dev react-hot-loader webpack webpack-dev-server
+
+# additional package
+$ npm install --save react-addons-update
 ```
 
 ----------
